@@ -1,126 +1,110 @@
----
-title: Your first seed
----
+### 효준 입시 일정
 
-### Welcome!
+#### 수시 1차 원서 접수일
+- 백석대 9월13일(화) ~ 9월17일 18:00
+- 전문대 9월13일(화) ~ 10월06일(목) 18:00 (서류마감 10/11(화))
 
-This is your first note. You'll find it in the [`notes/`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes) directory. 
+#### 수시 2차 원서 접수일
+- 백석대  월 일(화) ~  월  일 18:00
+- 전문대 11월07일(화) ~ 11월21일(목) 18:00 (서류마감 11/23(화))
 
-### Link syntax
+#### 정시 원서 접수일
+- 대림대 12월29일(화) ~ 1월12일 (서류마감 1/16(월))
 
-To link to another note, you can use multiple syntaxes. The following four use the "double-bracket" notation ([view the Markdown source file](https://github.com/maximevaillancourt/digital-garden-jekyll-template/blob/master/_notes/your-first-note.md#link-syntax) to see the underlying syntax).
-
-- Using the note title: [[a note about cats]]
-- Using the note's filename: [[cats]]
-- Using the note's title, with a label: [[A note about cats|link to the note about cats using the note title]]
-- Using the note's filename, with a label: [[cats|link to the note about cats using the note's filename]]
-
-You can organize notes in subdirectories and link them normally. For example, the links above all point to the `_notes/animals/cats.md` file. Here's another example: [[tigers]].
-
-Non-latin languages are supported too: [[안녕하세요]].
-
-Dashes and underscores in file names are supported, and may be omitted in the bracket link syntax. As an example, the `your-first-note.md` file can be linked to with [[your first note]] or [[your-first-note]], or even [[yOuR-FiRsT Note]].
-
-In all cases, if the double-bracket link does not point to a valid note, the double brackets will still be shown, like this: [[there is no note that matches this link]].
-
-Alternatively, you can use regular [Markdown syntax](https://www.markdownguide.org/getting-started/) for links, with a relative link to the other note, like this: [this is a Markdown link to the note about cats](/cats){: .internal-link}. Don't forget to use the `.internal-link` class to make sure the link is styled as an internal link (without the little arrow).
-
-Since the Web is all about HTML, you can always use plain HTML if you want, like this: <a class="internal-link" href="/cats">This is a link to the note about cats with HTML</a>.
-
-Of course, you can also link to external websites, like this: [this is a link to Wikipedia](https://wikipedia.org/). Again, you can use plain HTML if you prefer. Footnotes are also supported and will be treated like internal links.[^1] You can point to other notes in your footnotes.[^2]
-
-[^1]: This is a footnote. For more information about using footnotes, check out the [Markdown Guide](https://www.markdownguide.org/extended-syntax/#footnotes).
-[^2]: This is another footnote that links to the note about [[cats]]. You may also point to [[notes that do not exist]] if you wish.
-
-### Tweet embedding
-
-Note: This behavior is disabled by default for privacy reasons. See "Site configuration" section below to enable it.
-
-You may include a tweet URL on its own line (like below), and it would be replaced with an official Twitter embed if the site configuration demands it.
-
-https://twitter.com/jack/status/20
-
-### Media embedding
-
-You may embed media files within a note using HTML5 media tags. Here's an example for an audio file:
-
-"Jazzy Frenchy" by Benjamin Tissot from bensound.com
-<audio controls>
-  <source src="/assets/jazzyfrenchy.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
-
-### Site configuration
-
-Some behavior is configurable by tweaking the `_config.yml` file.
-
-**`use_html_extension`**: if you use a static host that doesn't support URLs that don't end with `.html` (such as Neocities), try changing the `use_html_extension` value to `true` in the `_config.yml` file and restart the Jekyll server (or re-build the site). This adds a `.html` extension to note URLs and may resolve issues with links. If you're still having trouble, I recommend using Netlify to host your digital garden: it's free, easy to use, and fully supports this template's features out of the box.
-
-**`open_external_links_in_new_tab`**: when set to `true`, this makes external links open in new tabs. Set to `false` to open all links in the current tab.
-
-**`embed_tweets`**: when set to `true`, tweet URLs on their own lines will be replaced with a Twitter embed. Default value is `false`.
-
-### Automatic bi-directional links
-
-Notice in the "Notes mentioning this note" section that there is another note linking to this note. This is a bi-directional link, and those are automatically created when you create links to other notes.
-
-### Link previews
-
-If you're on a device with mouse support, try hovering your mouse on internal links to preview the notes: [[a note about cats]].
-
-Links that have been previewed will be cached to avoid redundant requests.
-
-### Images and other Markdown goodies
-
-Finally, because you have the full power of Markdown in this template, you can use regular Markdown syntax for various formatting options.
-
-Lists work as expected:
-
-- List element A
-- List element B
-- List element C
-
-1. List element
-2. List element
-3. List element
-
-If you'd like to quote other people, consider using quote blocks:
-
-> Lorem ipsum dolor sit amet
-
-And of course, images look great:
-
-<img src="/assets/image.jpg"/>
-
-You can also ==highlight some content== by wrapping it with `==`.
-
-Non-latin languages are supported too: ==你好==, ==안녕하세요==, ==こんにちは==.
-
-### Code syntax highlighting
-
-You can add code blocks with full syntax color highlighting by wrapping code snippet in triple backticks and specifying the type of the code (`js`, `rb`, `sh`, etc.):
-
-```js
-// Here's a bit of JavaScript:
-console.log('hello!')
-```
-
-```rb
-# And now some Ruby
-def foo(bar)
-  "baz"
-end
-```
-
-```sh
-$ cat /dev/urandom | grep "the answer to life" # shell scripts look nice too
-```
+#### 대학별 입시 일정
+- ##### 연성대 스포츠 재활 면접60 학생부40
+	- **1차 면접일정공지: 10/06(목)**
+	- 1차 면접예약: 10/11(화) 16:00~10/12(수) 16:00
+	- 1차 면접일: 10/15(토) ~ 10/19(수)
+	- **2차 면접일정공지: 11/24(목)**
+	- 2차 면접예약: 11/28(월) 16:00~11/29(화) 16:00
+	- 2차 면접일: 12/03(토) ~ 12/07(수)
+	- 평가항목: 전공적합성, 서비스마인드, 인적성, 학업성취역량
+	- 수1 입결: 최저 6.97, 평균 5.62, 추합 30
+	- 수2 입결: 최저 5.45, 평균 5.07, 추합 6
+- ##### 서일대 레저스포츠 학과 면접60 학생부40
+	- **1차 면접일정공지: 10/06(목)**
+	- 1차 면접예약: 10/11(화) 16:00 ~ 18:00
+	- 1차 면접일: 10/16(일)
+	- 2차 면접예약: 11/25(금) 16:00 ~ 18:00
+	- 2차 면접일: 12/03(토) ~ 12/07(수)
+	- 2차 면접일: 12/4(일)
+	- 수1 입결: 최저 7.47, 평균 5.85, 추합 25
+	- 수2 입결: 최저 7.50, 평균 5.74, 추합 25
+	- 면접 내용: 스포츠헬스케어 전망 및 인식도, 본인의 피트니스 정도, 운동경험유무
+- ##### 국제대 스포츠헬스과 실기60 학생부40
+	- 1차 실기 [10/19~10/23](x-apple-data-detectors://embedded-result/136)
+	- 2차 [11/30~12/3](x-apple-data-detectors://embedded-result/152)
+	- 평가항목:
+	- 수1 입결: 최저 , 평균 , 추합
+	- 수2 입결: 최저 , 평균 , 추합
+- ##### 대림대 스포츠학부-지도과 서류60 면접40(정시: 면접 40, 실기 60)
+	- **1차 면접일정공지: 10/06(목)**
+	- 1차 면접예약: 10/11(화) 18:30 ~ 10/12(수) 10:00
+	- 1차 면접일: 10/15(토)
+	- 2차 면접예약: 11/22(화) 18:30 ~ 11/23(수) 10:00
+	- 2차 면접일: 11/27(일)
+	- 평가항목: 자기소개, 발표력, 태도, 직업관, 장래목표, 향후비전, 전공관심도, 전공이해도, 지원동기, 열정, 학업의지
+	- 학생건강기록부 사본 필요(학생건강체력평가제, 우수한 1개학년 제출)
+	- 수1 입결: 최저 , 평균 , 추합 52
+	- 수2 입결: 최저 , 평균 , 추합 13
+	- 정시 실기예약: 1/19(목) 16:00 ~ 1/20(금) 10:00
+	- 정시 실기일: 1/27(금)
+	- ![[스크린샷 2022-09-02 11.33.47.png|600]]
+- ##### 동서울대 레저스포츠 실기60 학생부40
+	- **1차 면접일정공지: 9/09(금)**
+	- 1차 면접예약: 10/11(화) 14:00 ~ 10/12(수) 17:00
+	- 1차 면접일: 10/22(토) 13:30
+	- 2차 면접예약: 11/22(화) 14:00 ~ 11/23(수) 17:00
+	- 2차 면접일: 12/03(토) 13:30
+	- 평가항목: 왕복달리기, 제자리멀리뛰기, 배근력
+	- 수1 입결: 최저 -, 평균 6.5, 추합 31
+	- 수2 입결: 최저 -, 평균 6.4, 추합 31
+	- ![[스크린샷 2022-09-02 13.40.45.png|600]]
+	- ![[스크린샷 2022-09-02 13.41.48.png|600]]
+- ##### 부천대 재활스포츠과 면접60 학생부40
+	- 1차 면접예약: 10/15(토) 11:00 ~ 16:00
+	- 1차 면접일: 10/15(토)
+	- 2차 면접예약: 11/26(토) 11:00 ~ 16:00
+	- 2차 면접일: 11/27(일)
+	- 평가항목: 적성, 관심, 태도, 표현력
+	- 평가문항
+		- 자신의 장 단점에 대해서 말해주세요
+		- 자신의 취미와 특기에 대해서 말해주세요
+	- 수1 입결: 최저 6.8, 평균 5.1, 추합 23
+	- 수2 입결: 최저 6.3, 평균 5.1, 추합 4
+- ##### 수원과학대 스포츠건강지도과 학생부100
+	- 평가항목: 전공적합성, 서비스마인드, 인적성, 학업성취역량
+	- 수1 입결: 최저 6.97, 평균 5.62, 추합 30
+	- 수2 입결: 최저 5.45, 평균 5.07, 추합 6-
+- ##### 신구대 스포츠재활과 학생부100(신설)
+- ##### 신안산대 스포츠지도과-실기70 학생부30
+	- 1차 [10/15](x-apple-data-detectors://embedded-result/390)
+	- 2차 [12/10](x-apple-data-detectors://embedded-result/400)
+	- 평가항목: 전공적합성, 서비스마인드, 인적성, 학업성취역량
+	- 수1 입결: 최저 6.97, 평균 5.62, 추합 30
+	- 수2 입결: 최저 5.45, 평균 5.07, 추합 6	-
+- ##### 오산대 스포츠지도과 학생부100
+	- 수1 입결: 최저 8.1, 평균 6.35, 추합 -
+	- 수2 입결: 최저 8.5, 평균 6.7, 추합 -
+- ##### 용인예술과학대 스포츠지도자과 면접70 학생부30
+	- 1차 [10/8](x-apple-data-detectors://embedded-result/455)
+	- 2차 [11/26](x-apple-data-detectors://embedded-result/464)
+	- 평가항목: 전공적합성, 서비스마인드, 인적성, 학업성취역량
+	- 수1 입결: 최저 6.97, 평균 5.62, 추합 30
+	- 수2 입결: 최저 5.45, 평균 5.07, 추합 6	-
+ - ##### 동원대 레저스포츠과 학생부100
+	- 평가항목: 전공적합성, 서비스마인드, 인적성, 학업성취역량
+	- 수1 입결: 최저 6.97, 평균 5.62, 추합 30
+	- 수2 입결: 최저 5.45, 평균 5.07, 추합 6
+- ##### 효준 지원 예정 학교
+	- 백석대
+	- 연성대
+	- 서일대
+	- 대림대
+	- 부천대
+	- 오산대
 
 
-### Next steps
-
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
-
-The easiest way to build your own digital garden based on this template is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
-
-Go forth, have fun, and learn new something every day! ✌️
+- 연결인물: #이상범
+-
