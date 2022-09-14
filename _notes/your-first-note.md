@@ -23,8 +23,8 @@
 	- 예치등록마감: ~12월 19일(월) 16:00
 	- 충원마감: 12월 26일(월) 18:00
 	- 수시 입결: 최저 6.53, 평균 5.15, 추합 19
-	- 실기동영상참고: https://ipsi.bu.ac.kr/admission/helper/physicalmovie03.jsp?pc=7,6
-	- <img src="/assets/스크린샷 2022-09-15 08.38.44.png"/>
+	<a href="https://ipsi.bu.ac.kr/admission/helper/physicalmovie03.jsp?pc=7,6">실기동영상참고</a>
+	<img src="/assets/스크린샷 2022-09-15 08.38.44.png"/>
 
 - #### **연성대 스포츠 재활 면접60 학생부40**
 	- 일반전형 제출서류 없음
