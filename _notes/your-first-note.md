@@ -6,7 +6,7 @@
 - 백석대 9월13일(화) ~ 9월17일 18:00 (서류마감: 9월 23일(금))
 
 #### 대학 별 면접 질문
-- ### **연성대** (http://ipsi.yeonsung.ac.kr/ipsi/index.do)
+<a href="http://ipsi.yeonsung.ac.kr/ipsi/index.do">### **연성대**</a>
 
 - #### 인성 및 적성
 
